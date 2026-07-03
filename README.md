@@ -1,2 +1,18 @@
 # assignment-2
-my second web development project created using HTML and CSS.
+
+ 🌐 My Second Web Project (HTML & CSS)
+
+This is a simple website built using HTML and CSS.
+
+🚀 Live Demo
+👉 https://melinajdt.github.io/assignment-2/
+
+ 🛠️ Technologies Used
+- HTML
+- CSS
+
+
+ 📬 Contact
+- LinkedIn: https://linkedin.com/in/Melina Jodat
+- GitHub: https://github.com/melinajdt
+- instagram: https://instagram.com/developer_melina
