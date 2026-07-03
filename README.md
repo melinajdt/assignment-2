@@ -13,6 +13,6 @@ This is a simple website built using HTML and CSS.
 
 
  📬 Contact
-- LinkedIn: https://linkedin.com/in/Melina Jodat
+- LinkedIn: https://linkedin.com/in/MelinaJodat
 - GitHub: https://github.com/melinajdt
 - instagram: https://instagram.com/developer_melina
